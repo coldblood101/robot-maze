@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1530866054 source:c:\users\nguye\desktop\robotmaze\main.cpp
+	<iostream>
+	"MazeLogic.h"
+	"IRobot.h"
+
+1530479840 source:c:\users\nguye\desktop\robotmaze\src\maze.cpp
+	"Maze.h"
+
+1530477725 c:\users\nguye\desktop\robotmaze\include\maze.h
+	<windows.h>
+	<fstream>
+	<iostream>
+	<malloc.h>
+
+1530480443 source:c:\users\nguye\desktop\robotmaze\src\primgenerator.cpp
+	"PrimGenerator.h"
+
+1530222257 c:\users\nguye\desktop\robotmaze\include\primgenerator.h
+	<vector>
+	"Maze.h"
+	<malloc.h>
+
+1530348137 source:c:\users\nguye\desktop\robotmaze\src\recursivegenerator.cpp
+	"RecursiveGenerator.h"
+
+1530477044 c:\users\nguye\desktop\robotmaze\include\recursivegenerator.h
+	<stack>
+	"Maze.h"
+
+1530478982 source:c:\users\nguye\desktop\robotmaze\src\irobot.cpp
+	"IRobot.h"
+	<iostream>
+
+1530502728 c:\users\nguye\desktop\robotmaze\include\irobot.h
+	"Maze.h"
+	"ColorCode.h"
+
+1530864778 source:c:\users\nguye\desktop\robotmaze\src\mazelogic.cpp
+	"MazeLogic.h"
+
+1530864778 c:\users\nguye\desktop\robotmaze\include\mazelogic.h
+	<time.h>
+	"Maze.h"
+	"IRobot.h"
+	"ScreenDisplay.h"
+	"RobotController.h"
+	"PrimGenerator.h"
+	"RecursiveGenerator.h"
+
+1530468500 c:\users\nguye\desktop\robotmaze\include\robotcontroller.h
+	"IRobot.h"
+
+1530468500 source:c:\users\nguye\desktop\robotmaze\src\robotcontroller.cpp
+	"RobotController.h"
+
+1530865708 source:c:\users\nguye\desktop\robotmaze\src\consolefix.cpp
+	"ConsoleFix.h"
+
+1530383502 c:\users\nguye\desktop\robotmaze\include\consolefix.h
+	<windows.h>
+	<cwchar>
+	<iostream>
+	"ColorCode.h"
+
+1530297663 c:\users\nguye\desktop\robotmaze\include\colorcode.h
+
+1530516477 source:c:\users\nguye\desktop\robotmaze\src\screendisplay.cpp
+	"ScreenDisplay.h"
+
+1530515268 c:\users\nguye\desktop\robotmaze\include\screendisplay.h
+	<string>
+	"Maze.h"
+	"IRobot.h"
+	"ConsoleFix.h"
+	"ColorCode.h"
+
+1530453154 source:c:\users\nguye\desktop\robotmaze\src\handleevent.cpp
+	"HandleEvent.h"
+
+1530449809 c:\users\nguye\desktop\robotmaze\include\handleevent.h
+	"IRobot.h"
+	"Maze.h"
+	"ScreenDisplay.h"
+
